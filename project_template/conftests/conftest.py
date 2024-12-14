@@ -1,5 +1,5 @@
-# import pytest
-#
-# @pytest.fixture
-# def yolo():
-#     return 42
+import pytest
+
+@pytest.fixture
+def yolo():
+    return 42
