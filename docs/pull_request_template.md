@@ -1,8 +1,8 @@
 ## Opis zmian
 Podaj powód i kontekst zmian.
 
-## Powiązany task z YouTrack
-Podaj link do taska na YouTrack
+## Powiązany task z Github Project
+Podaj link do taska na github project
 
 ## Rodzaj zmian
 - [ ] Implementacja nowej funkcjonalności
@@ -14,10 +14,12 @@ Podaj link do taska na YouTrack
 - [ ] Mój kod nie generuje błędów
 - [ ] Dodano/aktualizowano testy jednostkowe
 - [ ] Zgodność ze stylem kodowania projektu
+- [ ] Dodano type annotations
+- [ ] Dodano RST docstring
 - [ ] Mem został dodany
 
 ## Testowanie
-Opisz, jak przetestowano zmiany.
+Opisz, jak przetestowano zmiany lub jak je przetestować.
 
 ## Specjalne uwagi dla recenzentów
 Które elementy wymagają szczególnej uwagi.
